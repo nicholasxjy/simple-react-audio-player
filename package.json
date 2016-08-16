@@ -1,0 +1,26 @@
+{
+  "name": "react-audio",
+  "version": "0.0.0",
+  "description": "a react audio player",
+  "private": true,
+  "keywords": [
+    ""
+  ],
+  "scripts": {
+    "dev": "cooking watch",
+    "dist": "cooking build"
+  },
+  "author": "nicholas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "normalize-css": "^2.3.1",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.1",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  }
+}
